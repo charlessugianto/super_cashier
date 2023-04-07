@@ -18,5 +18,7 @@ pemiliki supermarket besar di salah satu kota di Indonesia.
   - Jika total belanja Andi diatas Rp 300.000 maka akan mendapatkan diskon 8%
   - Jika total belanja Andi diatas Rp 500.000 maka akan mendapatkan diskon 10%
 
-# Flowchart
+# PenjelasanFlowchart
 <img width="545" alt="Flowchart Super Cashier" src="https://user-images.githubusercontent.com/129651972/230600782-751fe667-125e-46f1-bfbd-d27a01f71144.png">
+
+# Penjelasan Function
