@@ -17,3 +17,5 @@ pemiliki supermarket besar di salah satu kota di Indonesia.
   - Jika total belanja Andi diatas Rp 200.000 maka akan mendapatkan diskon 5%
   - Jika total belanja Andi diatas Rp 300.000 maka akan mendapatkan diskon 8%
   - Jika total belanja Andi diatas Rp 500.000 maka akan mendapatkan diskon 10%
+
+# Flowchart
