@@ -56,3 +56,25 @@ pemiliki supermarket besar di salah satu kota di Indonesia.
 <img width="1060" alt="Screenshot 2023-04-08 at 14 53 28" src="https://user-images.githubusercontent.com/129651972/230710450-92fadbac-88a5-42a2-93b7-267b6d19d56b.png">
 
 # Hasil Test Case
+-  Test Case 1
+<img width="834" alt="Screenshot 2023-04-08 at 15 02 54" src="https://user-images.githubusercontent.com/129651972/230710754-5d626fcb-0ae0-4f5b-8f50-e3af1cbff436.png">
+
+-  Test Case 2
+<img width="834" alt="Screenshot 2023-04-08 at 15 03 40" src="https://user-images.githubusercontent.com/129651972/230710780-a1e053fa-d09c-4620-a15b-66d0194a10ad.png">
+
+-  Test Case 3
+<img width="834" alt="Screenshot 2023-04-08 at 15 04 33" src="https://user-images.githubusercontent.com/129651972/230710841-a2edc303-6ae3-4cf7-8cf3-950823429e19.png">
+
+-  Test Case 4
+<img width="834" alt="Screenshot 2023-04-08 at 15 05 49" src="https://user-images.githubusercontent.com/129651972/230710874-e44091b6-00a2-4645-9f43-e50af11e9c62.png">
+<img width="834" alt="Screenshot 2023-04-08 at 15 05 59" src="https://user-images.githubusercontent.com/129651972/230710877-c812dbb1-3bbf-44d4-a265-83819f607947.png">
+
+-  Tambahan Test Case
+<img width="834" alt="Screenshot 2023-04-08 at 15 06 54" src="https://user-images.githubusercontent.com/129651972/230710928-156f30cd-e490-444e-9bb0-5c34ee7c537c.png">
+<img width="834" alt="Screenshot 2023-04-08 at 15 07 02" src="https://user-images.githubusercontent.com/129651972/230710930-0206b7c6-ec12-401a-81ff-57e9ced7bf70.png">
+
+-  Tambahan Test Case, kesalahan input
+<img width="834" alt="Screenshot 2023-04-08 at 15 07 14" src="https://user-images.githubusercontent.com/129651972/230710961-b494e4ab-ff23-43b2-8fca-26d39ef451f5.png">
+
+# Conclusion/Future Work
+Sistem kasir self service telah berhasil berjalan dengan baik dan telah melewati beberapa test case. Selain itu, sistem kasir self service masih dapat dilakukan berbagai pengembangan agar code lebih efektif dan efesien.
