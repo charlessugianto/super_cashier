@@ -25,7 +25,7 @@ pemiliki supermarket besar di salah satu kota di Indonesia.
   - Class Transaction, akan menjadi kelas yang berisi beberapa fungsi untuk sistem kasir dan akan menampung input data dari pelanggan
   <img width="503" alt="Screenshot 2023-04-07 at 21 29 43" src="https://user-images.githubusercontent.com/129651972/230625941-67e21332-099a-44c7-a006-b5ad5d80805c.png">
 
-  -  Atribute, memiliki informmasi nama toko Andi
+  -  Atribute, memiliki informasi nama toko Andi
   <img width="503" alt="Screenshot 2023-04-07 at 21 29 36" src="https://user-images.githubusercontent.com/129651972/230625957-d132070c-6af9-4b22-993a-100b773a84a8.png">
 
   -  Add_Item, memiliki fungsi untuk menampung tipe data nama_item berupa string, jumlah_item berupa integer dan lebih besar dari 0, dan harga_item berupa integer atau float. Tidak hanya untuk menambahkan item ke dalam riwayat transaksi, tetapi juga untuk memeriksa tipe data, apakah telah sesuai dengan yang diinputkan. Jika tidak sesuai, maka akan keluar pesan error, dan pelanggan diminta untuk melakukan input kembali dengan tipe data yang benar.
@@ -46,4 +46,13 @@ pemiliki supermarket besar di salah satu kota di Indonesia.
 -  Reset_Transaction, memiliki fungsi untuk menghapus seluruh item yang ada dalam Dataframe riwayat transaksi belanja pelanggan, menggunakkan metode drop dan tabel yang ditampilkan menggunakkan sytle github
 <img width="927" alt="Screenshot 2023-04-08 at 14 46 37" src="https://user-images.githubusercontent.com/129651972/230710149-0f9898e6-9cb7-4622-890d-f1d69f735c29.png">
 
--  Check_Order
+-  Check_Order, memiliki fungsi untuk memeriksa kembali total belanjaan pelanggan. Fungsi check_order akan menyalin Dataframe, kemudian terdapat fitur Total_Price, dimana untuk menghitung total perkalian antara harga satuan per item name dengan jumlah barang tersebut, dan ditampilkan dengan tabel menggunakkan sytle github
+<img width="927" alt="Screenshot 2023-04-08 at 14 48 39" src="https://user-images.githubusercontent.com/129651972/230710326-4bb7ac61-71d9-46bf-879b-ca8d2d7b83ed.png">
+
+-  Total_Price, memiliki fungsi untuk menghitung total belanjaan pelanggan beserta dengan diskonnya. Fungsi Total_Price akan menyalin Dataframe, kemudian terdapat fitur Total_Price, dimana untuk menghitung total perkalian antara harga satuan per item name dengan jumlah barang tersebut, dan ditampilkan dengan tabel menggunakkan sytle github. Selain itu, diskon yang diperoleh pelanggan akan mengikuti ketentuan sebagai berikut:
+  - Jika total belanja Andi diatas Rp 200.000 maka akan mendapatkan diskon 5%
+  - Jika total belanja Andi diatas Rp 300.000 maka akan mendapatkan diskon 8%
+  - Jika total belanja Andi diatas Rp 500.000 maka akan mendapatkan diskon 10%
+<img width="1060" alt="Screenshot 2023-04-08 at 14 53 28" src="https://user-images.githubusercontent.com/129651972/230710450-92fadbac-88a5-42a2-93b7-267b6d19d56b.png">
+
+# Hasil Test Case
