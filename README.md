@@ -77,4 +77,4 @@ pemiliki supermarket besar di salah satu kota di Indonesia.
 <img width="834" alt="Screenshot 2023-04-08 at 15 07 14" src="https://user-images.githubusercontent.com/129651972/230710961-b494e4ab-ff23-43b2-8fca-26d39ef451f5.png">
 
 # Conclusion/Future Work
-Sistem kasir self service telah berhasil berjalan dengan baik dan telah melewati beberapa test case. Selain itu, sistem kasir self service masih dapat dilakukan berbagai pengembangan agar code lebih efektif dan efesien.
+Sistem kasir self service telah berjalan dengan baik dan berhasil melewati beberapa test case. Selain itu, sistem kasir self service masih dapat dilakukan berbagai pengembangan agar code dapat berjalan lebih efektif dan efesien.
