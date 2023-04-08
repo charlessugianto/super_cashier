@@ -31,7 +31,19 @@ pemiliki supermarket besar di salah satu kota di Indonesia.
   -  Add_Item, memiliki fungsi untuk menampung tipe data nama_item berupa string, jumlah_item berupa integer dan lebih besar dari 0, dan harga_item berupa integer atau float. Tidak hanya untuk menambahkan item ke dalam riwayat transaksi, tetapi juga untuk memeriksa tipe data, apakah telah sesuai dengan yang diinputkan. Jika tidak sesuai, maka akan keluar pesan error, dan pelanggan diminta untuk melakukan input kembali dengan tipe data yang benar.
   <img width="883" alt="Screenshot 2023-04-07 at 21 30 53" src="https://user-images.githubusercontent.com/129651972/230626140-6a6e1546-14d1-412d-b725-fe9ff975e86b.png">
 
--  Update_Item_Name, memiliki fungsi untuk memperbaharui tipe data nama_item berupa string, jumlah_item berupa integer, dan harga_item berupa integer atau float. Tidak hanya untuk memperbaharui item ke dalam riwayat transaksi yang telah dibuat sebelumnya, tetapi juga untuk memeriksa tipe data, apakah telah sesuai dengan yang diinputkan. Jika tidak sesuai, maka akan keluar pesan error, dan pelanggan diminta untuk melakukan input kembali dengan tipe data yang benar. 
+-  Update_Item_Name, memiliki fungsi untuk memperbaharui tipe data nama_item berupa string. Tidak hanya untuk memperbaharui nama_item ke dalam riwayat transaksi yang telah dibuat sebelumnya, tetapi juga untuk memeriksa tipe data, apakah telah sesuai dengan yang diinputkan. Jika tidak sesuai, maka akan keluar pesan error, dan pelanggan diminta untuk melakukan input kembali dengan tipe data yang benar. 
 <img width="861" alt="Screenshot 2023-04-07 at 21 37 29" src="https://user-images.githubusercontent.com/129651972/230627056-336dfd83-4ede-4b06-9e1f-977f694c9a2e.png">
 
--  Update_Item_Quantity
+-  Update_Item_Quantity, memiliki fungsi untuk memperbaharui tipe data jumlah_item berupa integer. Tidak hanya untuk memperbaharui jumlah_item ke dalam riwayat transaksi yang telah dibuat sebelumnya, tetapi juga untuk memeriksa tipe data, apakah telah sesuai dengan yang diinputkan. Jika tidak sesuai, maka akan keluar pesan error, dan pelanggan diminta untuk melakukan input kembali dengan tipe data yang benar. 
+<img width="927" alt="Screenshot 2023-04-08 at 14 36 24" src="https://user-images.githubusercontent.com/129651972/230709685-8e719f05-37be-4b96-8839-c8cea18694f7.png">
+
+-  Update_Item_Price, memiliki fungsi untuk memperbaharui tipe data harga_item berupa integer atau float. Tidak hanya untuk memperbaharui harga_item ke dalam riwayat transaksi yang telah dibuat sebelumnya, tetapi juga untuk memeriksa tipe data, apakah telah sesuai dengan yang diinputkan. Jika tidak sesuai, maka akan keluar pesan error, dan pelanggan diminta untuk melakukan input kembali dengan tipe data yang benar. 
+<img width="927" alt="Screenshot 2023-04-08 at 14 39 20" src="https://user-images.githubusercontent.com/129651972/230709786-df2fcab1-41a4-49e0-bae9-3156fa5b3dab.png">
+
+-  Delete_Item, memiliki fungsi untuk menghapus nama_item yang ingin dihapus oleh pelanggan atau user. Tidak hanya untuk menghapus nama_item ke dalam riwayat transaksi yang telah dibuat sebelumnya, tetapi juga untuk memeriksa tipe data, apakah telah sesuai dengan yang diinputkan. Jika tidak sesuai, maka akan keluar pesan error, dan pelanggan diminta untuk melakukan input kembali dengan tipe data yang benar.
+<img width="927" alt="Screenshot 2023-04-08 at 14 40 43" src="https://user-images.githubusercontent.com/129651972/230709919-49e6b0fa-b3cf-49be-bea2-cc8972286bf3.png">
+
+-  Reset_Transaction, memiliki fungsi untuk menghapus seluruh item yang ada dalam Dataframe riwayat transaksi belanja pelanggan, menggunakkan metode drop dan tabel yang ditampilkan menggunakkan sytle github
+<img width="927" alt="Screenshot 2023-04-08 at 14 46 37" src="https://user-images.githubusercontent.com/129651972/230710149-0f9898e6-9cb7-4622-890d-f1d69f735c29.png">
+
+-  Check_Order
