@@ -1,3 +1,6 @@
+Main: SuperCashier1
+Modul: ProjectSuperCashier
+
 # Latar Belakang
 Membuat sistem kasir self service, sehingga pelanggan toko dapat memasukkan item yang dibeli, 
 jumlah item, dan harga untuk memperbaiki proses bisnis di toko Andi, dimana Andi adalah seorang
