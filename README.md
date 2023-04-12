@@ -1,5 +1,5 @@
-- Main: SuperCashier1
-- Modul: ProjectSuperCashier
+- Main: ProjectSuperCashier
+- Modul: SuperCashier1
 
 # Latar Belakang
 Membuat sistem kasir self service, sehingga pelanggan toko dapat memasukkan item yang dibeli, 
